@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "classmap": [
+            "src/RobPhilp/"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6"
+    }
+}

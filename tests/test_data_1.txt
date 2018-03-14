@@ -1,0 +1,12 @@
+Grain and Leaf;E32NY;100
+Grain salad;nuts;12h
+
+Wholegrains;SW34DA;20
+The Classic;gluten;24h
+
+Ghana Kitchen;NW42QA;40
+Premium meat selection;;36h
+Breakfast;gluten,eggs;12h
+
+Well Kneaded;EC32BA;150
+Full English breakfast;gluten;24h
